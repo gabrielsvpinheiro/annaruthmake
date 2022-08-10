@@ -204,6 +204,99 @@ h2 {
   padding: 5px;
 }
 
+.servicos{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 20px;
+  gap: 30px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5px;
+  padding-bottom: 20px;
+}
+
+.servico1{
+  width: 420px;
+  height: 230px;
+  font-family: EB Garamond;
+  color: #504C4C;
+}
+
+.servico1 h3{
+  border: 1px solid #D3D3D3;
+  width: 195px;
+  padding-left: 5px;
+}
+
+.servico1 p{
+  width: 300px;
+  color: #686060;
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+
+.servico2{
+  width: 420px;
+  height: 230px;
+  font-family: EB Garamond;
+  color: #504C4C;
+}
+
+.servico2 h3{
+  border: 1px solid #D3D3D3;
+  width: 120px;
+  padding-left: 5px;
+}
+
+.servico2 p{
+  width: 300px;
+  color: #686060;
+  font-size: 18px;
+  padding-bottom: 42px;
+}
+
+.servico3{
+  width: 420px;
+  height: 230px;
+  font-family: EB Garamond;
+  color: #504C4C;
+}
+
+.servico3 h3{
+  border: 1px solid #D3D3D3;
+  width: 65px;
+  padding-left: 5px;
+}
+
+.servico3 p{
+  width: 300px;
+  color: #686060;
+  font-size: 18px;
+  padding-bottom: 42px;
+}
+
+.servico4{
+  width: 420px;
+  height: 230px;
+  font-family: EB Garamond;
+  color: #504C4C;
+}
+
+.servico4 h3{
+  border: 1px solid #D3D3D3;
+  width: 108px;
+  padding-left: 5px;
+}
+
+.servico4 p{
+  width: 300px;
+  color: #686060;
+  font-size: 18px;
+  padding-bottom: 42px;
+}
+
 
 
 
