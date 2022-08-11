@@ -189,6 +189,20 @@ h2 {
   font-weight: 100px;
 }
 
+.imagens-portfolio{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1070px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagens-portfolio img{
+  padding-bottom: 20px;
+}
+
 .depoimentos{
   display: flex;
   align-items: center;
@@ -201,6 +215,10 @@ h2 {
 }
 
 .depoimento1{
+  padding: 5px;
+}
+
+.depoimento2{
   padding: 5px;
 }
 
