@@ -111,9 +111,9 @@ h2 {
     align-items: center;
   }
   .header-menu a{
-    padding: 12px 16px;
-    border-radius: 4px;
-    font-size: 12px;
+    padding: 10px;
+    border-radius: 1px;
+    font-size: 11px;
   }
   .header a:after{
    display: none;
